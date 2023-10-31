@@ -1,0 +1,15 @@
+C:\Users\Heavenly_lich\source\repos\LabR4\LabR4\bin\Debug\net7.0\LabR4.exe
+C:\Users\Heavenly_lich\source\repos\LabR4\LabR4\bin\Debug\net7.0\LabR4.deps.json
+C:\Users\Heavenly_lich\source\repos\LabR4\LabR4\bin\Debug\net7.0\LabR4.runtimeconfig.json
+C:\Users\Heavenly_lich\source\repos\LabR4\LabR4\bin\Debug\net7.0\LabR4.dll
+C:\Users\Heavenly_lich\source\repos\LabR4\LabR4\bin\Debug\net7.0\LabR4.pdb
+C:\Users\Heavenly_lich\source\repos\LabR4\LabR4\obj\Debug\net7.0\LabR4.csproj.AssemblyReference.cache
+C:\Users\Heavenly_lich\source\repos\LabR4\LabR4\obj\Debug\net7.0\LabR4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heavenly_lich\source\repos\LabR4\LabR4\obj\Debug\net7.0\LabR4.AssemblyInfoInputs.cache
+C:\Users\Heavenly_lich\source\repos\LabR4\LabR4\obj\Debug\net7.0\LabR4.AssemblyInfo.cs
+C:\Users\Heavenly_lich\source\repos\LabR4\LabR4\obj\Debug\net7.0\LabR4.csproj.CoreCompileInputs.cache
+C:\Users\Heavenly_lich\source\repos\LabR4\LabR4\obj\Debug\net7.0\LabR4.dll
+C:\Users\Heavenly_lich\source\repos\LabR4\LabR4\obj\Debug\net7.0\refint\LabR4.dll
+C:\Users\Heavenly_lich\source\repos\LabR4\LabR4\obj\Debug\net7.0\LabR4.pdb
+C:\Users\Heavenly_lich\source\repos\LabR4\LabR4\obj\Debug\net7.0\LabR4.genruntimeconfig.cache
+C:\Users\Heavenly_lich\source\repos\LabR4\LabR4\obj\Debug\net7.0\ref\LabR4.dll

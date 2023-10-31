@@ -1,0 +1,15 @@
+C:\Users\Heavenly_lich\source\repos\LabRP1\LabRP1\bin\Debug\net7.0\LabRP1.exe
+C:\Users\Heavenly_lich\source\repos\LabRP1\LabRP1\bin\Debug\net7.0\LabRP1.deps.json
+C:\Users\Heavenly_lich\source\repos\LabRP1\LabRP1\bin\Debug\net7.0\LabRP1.runtimeconfig.json
+C:\Users\Heavenly_lich\source\repos\LabRP1\LabRP1\bin\Debug\net7.0\LabRP1.dll
+C:\Users\Heavenly_lich\source\repos\LabRP1\LabRP1\bin\Debug\net7.0\LabRP1.pdb
+C:\Users\Heavenly_lich\source\repos\LabRP1\LabRP1\obj\Debug\net7.0\LabRP1.csproj.AssemblyReference.cache
+C:\Users\Heavenly_lich\source\repos\LabRP1\LabRP1\obj\Debug\net7.0\LabRP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heavenly_lich\source\repos\LabRP1\LabRP1\obj\Debug\net7.0\LabRP1.AssemblyInfoInputs.cache
+C:\Users\Heavenly_lich\source\repos\LabRP1\LabRP1\obj\Debug\net7.0\LabRP1.AssemblyInfo.cs
+C:\Users\Heavenly_lich\source\repos\LabRP1\LabRP1\obj\Debug\net7.0\LabRP1.csproj.CoreCompileInputs.cache
+C:\Users\Heavenly_lich\source\repos\LabRP1\LabRP1\obj\Debug\net7.0\LabRP1.dll
+C:\Users\Heavenly_lich\source\repos\LabRP1\LabRP1\obj\Debug\net7.0\refint\LabRP1.dll
+C:\Users\Heavenly_lich\source\repos\LabRP1\LabRP1\obj\Debug\net7.0\LabRP1.pdb
+C:\Users\Heavenly_lich\source\repos\LabRP1\LabRP1\obj\Debug\net7.0\LabRP1.genruntimeconfig.cache
+C:\Users\Heavenly_lich\source\repos\LabRP1\LabRP1\obj\Debug\net7.0\ref\LabRP1.dll
